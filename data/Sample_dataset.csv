@@ -1,0 +1,501 @@
+ticket_id,user_input_text,category,priority,user_name,device,application,system,error_message,department,annotated_for_ner,cleaned_input
+T1001,LAN connection not working,Hardware Issue,Low,,,,,,Finance,no,lan connection not working
+T1002,Internet is very slow today,Hardware Issue,Medium,,,,,,Sales,no,internet is very slow today
+T1003,Keyboard keys not responding properly,Other / General Support,Medium,,,,,,Admin,no,keyboard keys not responding properly
+T1004,Anita reports: Application crashes when opening in Teams on SRV-22,Hardware Issue,Low,Anita,mouse,Teams,SRV-22,,Sales,yes,anita reports application crashes when opening in teams on srv-22
+T1005,Email delivery delayed,Hardware Issue,Low,,,,,,Operations,no,email delivery delayed
+T1006,Mouse not detected after system restart,Access / Authentication Issue,High,,,,,,Admin,no,mouse not detected after system restart
+T1007,Unable to login due to access denied,Software Issue,Low,,,,,,Sales,no,unable to login due to access denied
+T1008,VPN not connecting from home,Email / Communication Issue,High,,,,,,Finance,no,vpn not connecting from home
+T1009,Karan reports: VPN not connecting from home in Excel on SRV-25,Access / Authentication Issue,High,Karan,keyboard,Excel,SRV-25,,Finance,yes,karan reports vpn not connecting from home in excel on srv-25
+T1010,Priya reports: Email delivery delayed in InternalTool showing 404 error,Email / Communication Issue,High,Priya,,InternalTool,,404 error,Operations,yes,priya reports email delivery delayed in internaltool showing 404 error
+T1011,Karan reports: Outlook not syncing emails,Email / Communication Issue,High,Karan,,,,,IT,yes,karan reports outlook not syncing emails
+T1012,VPN not connecting from home,Hardware Issue,High,,,,,,Sales,no,vpn not connecting from home
+T1013,Outlook not syncing emails,Email / Communication Issue,Medium,,,,,,Finance,no,outlook not syncing emails
+T1014,Unable to login due to access denied,Network Issue,Low,,,,,,HR,no,unable to login due to access denied
+T1015,LAN connection not working,Access / Authentication Issue,High,,,,,,Sales,no,lan connection not working
+T1016,Keyboard keys not responding properly,Network Issue,Low,,,,,,Admin,no,keyboard keys not responding properly
+T1017,Anita reports: Software installation failing with error in Chrome,Access / Authentication Issue,High,Anita,,Chrome,,,Sales,yes,anita reports software installation failing with error in chrome
+T1018,Software installation failing with error,Other / General Support,High,,,,,,Operations,no,software installation failing with error
+T1019,Internet is very slow today,Other / General Support,High,,,,,,Admin,no,internet is very slow today
+T1020,Application crashes when opening,Network Issue,High,,,,,,IT,no,application crashes when opening
+T1021,Mouse not detected after system restart showing slow performance,Other / General Support,Medium,,,,,slow performance,Admin,yes,mouse not detected after system restart showing slow performance
+T1022,Karan reports: VPN not connecting from home in Teams on SRV-47 showing access denied,Access / Authentication Issue,High,Karan,keyboard,Teams,SRV-47,access denied,HR,yes,karan reports vpn not connecting from home in teams on srv-47 showing access denied
+T1023,Neha reports: LAN connection not working in VPN on SRV-10 showing login failed,Software Issue,Low,Neha,keyboard,VPN,SRV-10,login failed,Admin,yes,neha reports lan connection not working in vpn on srv-10 showing login failed
+T1024,Unable to login due to access denied on SRV-58 showing login failed,Other / General Support,Low,,,,SRV-58,login failed,HR,yes,unable to login due to access denied on srv-58 showing login failed
+T1025,Mouse not detected after system restart,Email / Communication Issue,High,,,,,,HR,yes,mouse not detected after system restart
+T1026,Application crashes when opening,Software Issue,High,,,,,,IT,no,application crashes when opening
+T1027,Email delivery delayed,Access / Authentication Issue,High,,,,,,IT,no,email delivery delayed
+T1028,Sneha reports: Outlook not syncing emails in SAP on SRV-57 showing connection timeout,Software Issue,Medium,Sneha,monitor,SAP,SRV-57,connection timeout,Operations,yes,sneha reports outlook not syncing emails in sap on srv-57 showing connection timeout
+T1029,Mouse not detected after system restart,Access / Authentication Issue,Medium,,,,,,Sales,no,mouse not detected after system restart
+T1030,Outlook not syncing emails,Email / Communication Issue,Low,,,,,,Sales,no,outlook not syncing emails
+T1031,VPN not connecting from home,Email / Communication Issue,High,,,,,,IT,no,vpn not connecting from home
+T1032,Keyboard keys not responding properly,Hardware Issue,Low,,,,,,Admin,no,keyboard keys not responding properly
+T1033,Outlook not syncing emails,Email / Communication Issue,Low,,,,,,Admin,no,outlook not syncing emails
+T1034,VPN not connecting from home,Network Issue,Medium,,,,,,HR,no,vpn not connecting from home
+T1035,Keyboard keys not responding properly,Access / Authentication Issue,Low,,,,,,Admin,no,keyboard keys not responding properly
+T1036,Unable to login due to access denied on SRV-15,Hardware Issue,Medium,,,,SRV-15,,Admin,yes,unable to login due to access denied on srv-15
+T1037,Unable to login due to access denied,Network Issue,High,,,,,,HR,no,unable to login due to access denied
+T1038,LAN connection not working,Hardware Issue,Low,,,,,,Finance,no,lan connection not working
+T1039,Email delivery delayed,Network Issue,High,,,,,,Operations,no,email delivery delayed
+T1040,VPN not connecting from home,Hardware Issue,Low,,,,,,Finance,no,vpn not connecting from home
+T1041,Email delivery delayed,Hardware Issue,Medium,,,,,,Sales,no,email delivery delayed
+T1042,Software installation failing with error,Network Issue,High,,,,,,Operations,no,software installation failing with error
+T1043,Sneha reports: Software installation failing with error in VPN,Hardware Issue,Low,Sneha,keyboard,VPN,,,Operations,yes,sneha reports software installation failing with error in vpn
+T1044,Unable to login due to access denied,Email / Communication Issue,Medium,,,,,,Operations,no,unable to login due to access denied
+T1045,Application crashes when opening,Access / Authentication Issue,Low,,,,,,HR,no,application crashes when opening
+T1046,Internet is very slow today,Hardware Issue,Medium,,,,,,Operations,no,internet is very slow today
+T1047,Mouse not detected after system restart,Software Issue,Medium,,,,,,Finance,no,mouse not detected after system restart
+T1048,Internet is very slow today,Access / Authentication Issue,Low,,,,,,HR,no,internet is very slow today
+T1049,Email delivery delayed,Software Issue,Low,,,,,,Operations,no,email delivery delayed
+T1050,Keyboard keys not responding properly in SAP on SRV-14 showing server not reachable,Other / General Support,Low,,monitor,SAP,SRV-14,server not reachable,Finance,yes,keyboard keys not responding properly in sap on srv-14 showing server not reachable
+T1051,LAN connection not working,Software Issue,High,,,,,,Finance,no,lan connection not working
+T1052,Keyboard keys not responding properly,Network Issue,Medium,,,,,,Finance,no,keyboard keys not responding properly
+T1053,Software installation failing with error,Other / General Support,High,,desktop,,,,Admin,yes,software installation failing with error
+T1054,VPN not connecting from home,Email / Communication Issue,Medium,,,,,,Operations,no,vpn not connecting from home
+T1055,Email delivery delayed,Access / Authentication Issue,Low,,,,,,HR,no,email delivery delayed
+T1056,VPN not connecting from home in Chrome showing server not reachable,Software Issue,Medium,,laptop,Chrome,,server not reachable,Admin,yes,vpn not connecting from home in chrome showing server not reachable
+T1057,Mouse not detected after system restart,Hardware Issue,Medium,,,,,,IT,no,mouse not detected after system restart
+T1058,Unable to login due to access denied,Access / Authentication Issue,Low,,,,,,Operations,no,unable to login due to access denied
+T1059,Software installation failing with error,Access / Authentication Issue,Medium,,,,,,HR,no,software installation failing with error
+T1060,VPN not connecting from home,Network Issue,Low,,,,,,Operations,no,vpn not connecting from home
+T1061,Outlook not syncing emails,Software Issue,High,,,,,,Finance,no,outlook not syncing emails
+T1062,Mouse not detected after system restart,Email / Communication Issue,High,,,,,,IT,no,mouse not detected after system restart
+T1063,Karan reports: Mouse not detected after system restart in SAP on SRV-24,Email / Communication Issue,Low,Karan,,SAP,SRV-24,,Admin,yes,karan reports mouse not detected after system restart in sap on srv-24
+T1064,Internet is very slow today,Email / Communication Issue,High,,,,,,IT,no,internet is very slow today
+T1065,Application crashes when opening,Software Issue,Low,,,,,,HR,no,application crashes when opening
+T1066,Application crashes when opening,Access / Authentication Issue,Low,,,,,,Sales,no,application crashes when opening
+T1067,Keyboard keys not responding properly,Hardware Issue,High,,,,,,Sales,no,keyboard keys not responding properly
+T1068,VPN not connecting from home,Access / Authentication Issue,Low,,,,,,Admin,no,vpn not connecting from home
+T1069,VPN not connecting from home,Network Issue,Medium,,,,,,IT,no,vpn not connecting from home
+T1070,Karan reports: Unable to login due to access denied in Teams on SRV-28,Software Issue,Low,Karan,mouse,Teams,SRV-28,,Admin,yes,karan reports unable to login due to access denied in teams on srv-28
+T1071,Mouse not detected after system restart,Access / Authentication Issue,Low,,,,,,Admin,no,mouse not detected after system restart
+T1072,Internet is very slow today,Network Issue,Low,,,,,,Operations,no,internet is very slow today
+T1073,VPN not connecting from home,Email / Communication Issue,Low,,,,,,IT,no,vpn not connecting from home
+T1074,LAN connection not working,Network Issue,Medium,,,,,,HR,no,lan connection not working
+T1075,VPN not connecting from home,Email / Communication Issue,Low,,,,,,Admin,no,vpn not connecting from home
+T1076,Software installation failing with error,Email / Communication Issue,Medium,,,,,,IT,no,software installation failing with error
+T1077,Unable to login due to access denied,Network Issue,Low,,,,,,Sales,no,unable to login due to access denied
+T1078,Email delivery delayed,Network Issue,Medium,,,,,,Sales,no,email delivery delayed
+T1079,Unable to login due to access denied,Other / General Support,Medium,,,,,,Admin,no,unable to login due to access denied
+T1080,Mouse not detected after system restart,Network Issue,Medium,,,,,,Admin,no,mouse not detected after system restart
+T1081,Email delivery delayed,Software Issue,Medium,,,,,,Operations,no,email delivery delayed
+T1082,Keyboard keys not responding properly,Network Issue,Low,,,,,,IT,no,keyboard keys not responding properly
+T1083,Karan reports: Outlook not syncing emails in Outlook showing server not reachable,Access / Authentication Issue,Medium,Karan,,Outlook,,server not reachable,HR,yes,karan reports outlook not syncing emails in outlook showing server not reachable
+T1084,Sneha reports: Software installation failing with error in Outlook showing blue screen,Access / Authentication Issue,High,Sneha,PC,Outlook,,blue screen,Admin,yes,sneha reports software installation failing with error in outlook showing blue screen
+T1085,VPN not connecting from home,Access / Authentication Issue,Medium,,,,,,HR,no,vpn not connecting from home
+T1086,Keyboard keys not responding properly,Hardware Issue,Medium,,,,,,Admin,no,keyboard keys not responding properly
+T1087,Anita reports: VPN not connecting from home on SRV-36,Access / Authentication Issue,Medium,Anita,,,SRV-36,,HR,yes,anita reports vpn not connecting from home on srv-36
+T1088,Software installation failing with error,Software Issue,Medium,,,,,,Operations,no,software installation failing with error
+T1089,Karan reports: Unable to login due to access denied in Outlook on SRV-27 showing login failed,Software Issue,High,Karan,,Outlook,SRV-27,login failed,Sales,yes,karan reports unable to login due to access denied in outlook on srv-27 showing login failed
+T1090,VPN not connecting from home,Other / General Support,High,,,,,,IT,no,vpn not connecting from home
+T1091,VPN not connecting from home,Network Issue,High,,,,,,IT,no,vpn not connecting from home
+T1092,Keyboard keys not responding properly,Email / Communication Issue,High,,,,,,IT,no,keyboard keys not responding properly
+T1093,Application crashes when opening on SRV-27 showing login failed,Network Issue,Low,,,,SRV-27,login failed,Finance,yes,application crashes when opening on srv-27 showing login failed
+T1094,Software installation failing with error,Network Issue,Low,,,,,,Sales,no,software installation failing with error
+T1095,Outlook not syncing emails,Access / Authentication Issue,Medium,,,,,,Admin,no,outlook not syncing emails
+T1096,Rahul reports: Email delivery delayed on SRV-28,Access / Authentication Issue,High,Rahul,,,SRV-28,,HR,yes,rahul reports email delivery delayed on srv-28
+T1097,Mouse not detected after system restart,Network Issue,Low,,,,,,Sales,no,mouse not detected after system restart
+T1098,Amit reports: Internet is very slow today in VPN,Hardware Issue,High,Amit,,VPN,,,Finance,yes,amit reports internet is very slow today in vpn
+T1099,Karan reports: Mouse not detected after system restart in Chrome showing blue screen,Hardware Issue,Medium,Karan,keyboard,Chrome,,blue screen,IT,yes,karan reports mouse not detected after system restart in chrome showing blue screen
+T1100,Anita reports: VPN not connecting from home in Excel on SRV-24 showing blue screen,Email / Communication Issue,High,Anita,desktop,Excel,SRV-24,blue screen,Admin,yes,anita reports vpn not connecting from home in excel on srv-24 showing blue screen
+T1101,Sneha reports: LAN connection not working showing server not reachable,Email / Communication Issue,High,Sneha,monitor,,,server not reachable,HR,yes,sneha reports lan connection not working showing server not reachable
+T1102,Email delivery delayed,Network Issue,Low,,,,,,Sales,no,email delivery delayed
+T1103,Mouse not detected after system restart in Chrome on SRV-29,Access / Authentication Issue,Medium,,desktop,Chrome,SRV-29,,Admin,yes,mouse not detected after system restart in chrome on srv-29
+T1104,LAN connection not working,Hardware Issue,Medium,,,,,,HR,no,lan connection not working
+T1105,LAN connection not working in Chrome,Hardware Issue,Medium,,printer,Chrome,,,IT,yes,lan connection not working in chrome
+T1106,Outlook not syncing emails,Network Issue,Medium,,,,,,Admin,no,outlook not syncing emails
+T1107,Internet is very slow today,Email / Communication Issue,Low,,,,,,Operations,no,internet is very slow today
+T1108,Amit reports: LAN connection not working,Email / Communication Issue,Medium,Amit,,,,,Sales,yes,amit reports lan connection not working
+T1109,Priya reports: Internet is very slow today in Chrome,Hardware Issue,High,Priya,,Chrome,,,IT,yes,priya reports internet is very slow today in chrome
+T1110,Unable to login due to access denied on SRV-19,Access / Authentication Issue,Medium,,,,SRV-19,,HR,yes,unable to login due to access denied on srv-19
+T1111,Neha reports: VPN not connecting from home in VPN,Network Issue,Low,Neha,,VPN,,,Operations,yes,neha reports vpn not connecting from home in vpn
+T1112,Software installation failing with error,Access / Authentication Issue,Low,,,,,,Operations,no,software installation failing with error
+T1113,Sneha reports: VPN not connecting from home showing application crash,Email / Communication Issue,High,Sneha,,,,application crash,Admin,yes,sneha reports vpn not connecting from home showing application crash
+T1114,Mouse not detected after system restart,Network Issue,Medium,,,,,,HR,no,mouse not detected after system restart
+T1115,Outlook not syncing emails,Hardware Issue,Low,,,,,,IT,no,outlook not syncing emails
+T1116,Rahul reports: Email delivery delayed in Chrome,Software Issue,Medium,Rahul,laptop,Chrome,,,Finance,yes,rahul reports email delivery delayed in chrome
+T1117,Application crashes when opening,Access / Authentication Issue,Low,,,,,,HR,no,application crashes when opening
+T1118,Sneha reports: Application crashes when opening in Excel,Hardware Issue,High,Sneha,desktop,Excel,,,Admin,yes,sneha reports application crashes when opening in excel
+T1119,VPN not connecting from home in InternalTool on SRV-21 showing application crash,Hardware Issue,Low,,,InternalTool,SRV-21,application crash,HR,yes,vpn not connecting from home in internaltool on srv-21 showing application crash
+T1120,Rahul reports: Keyboard keys not responding properly in Outlook on SRV-52,Network Issue,Medium,Rahul,,Outlook,SRV-52,,Finance,yes,rahul reports keyboard keys not responding properly in outlook on srv-52
+T1121,Rahul reports: Keyboard keys not responding properly,Hardware Issue,Low,Rahul,system,,,,Operations,yes,rahul reports keyboard keys not responding properly
+T1122,Rahul reports: Keyboard keys not responding properly in Outlook on SRV-59,Access / Authentication Issue,Low,Rahul,,Outlook,SRV-59,,Sales,yes,rahul reports keyboard keys not responding properly in outlook on srv-59
+T1123,Priya reports: Application crashes when opening in Outlook,Software Issue,Medium,Priya,,Outlook,,,Finance,yes,priya reports application crashes when opening in outlook
+T1124,LAN connection not working,Network Issue,High,,,,,,HR,no,lan connection not working
+T1125,Software installation failing with error,Email / Communication Issue,Medium,,,,,,HR,no,software installation failing with error
+T1126,Keyboard keys not responding properly,Software Issue,Medium,,,,,,Admin,no,keyboard keys not responding properly
+T1127,Sneha reports: Email delivery delayed,Software Issue,Medium,Sneha,,,,,Sales,yes,sneha reports email delivery delayed
+T1128,Keyboard keys not responding properly,Email / Communication Issue,High,,,,,,Finance,no,keyboard keys not responding properly
+T1129,Amit reports: Unable to login due to access denied in VPN on SRV-16 showing access denied,Other / General Support,Medium,Amit,,VPN,SRV-16,access denied,IT,yes,amit reports unable to login due to access denied in vpn on srv-16 showing access denied
+T1130,Priya reports: VPN not connecting from home in SAP on SRV-23,Other / General Support,High,Priya,monitor,SAP,SRV-23,,HR,yes,priya reports vpn not connecting from home in sap on srv-23
+T1131,Unable to login due to access denied,Other / General Support,High,,,,,,Sales,no,unable to login due to access denied
+T1132,Email delivery delayed,Access / Authentication Issue,Medium,,,,,,HR,no,email delivery delayed
+T1133,Outlook not syncing emails,Email / Communication Issue,High,,,,,,Admin,no,outlook not syncing emails
+T1134,Unable to login due to access denied,Access / Authentication Issue,High,,,,,,HR,no,unable to login due to access denied
+T1135,Software installation failing with error,Other / General Support,Medium,,,,,,Sales,no,software installation failing with error
+T1136,Outlook not syncing emails,Other / General Support,High,,,,,,IT,no,outlook not syncing emails
+T1137,VPN not connecting from home,Hardware Issue,High,,,,,,Finance,no,vpn not connecting from home
+T1138,Internet is very slow today showing access denied,Hardware Issue,Medium,,desktop,,,access denied,Finance,yes,internet is very slow today showing access denied
+T1139,Application crashes when opening,Other / General Support,Low,,,,,,Finance,no,application crashes when opening
+T1140,Sneha reports: Email delivery delayed showing slow performance,Email / Communication Issue,Low,Sneha,,,,slow performance,Admin,yes,sneha reports email delivery delayed showing slow performance
+T1141,VPN not connecting from home,Network Issue,High,,,,,,Operations,no,vpn not connecting from home
+T1142,LAN connection not working,Email / Communication Issue,High,,,,,,Finance,no,lan connection not working
+T1143,VPN not connecting from home,Network Issue,High,,,,,,Operations,no,vpn not connecting from home
+T1144,Rahul reports: Unable to login due to access denied on SRV-50 showing connection timeout,Access / Authentication Issue,Low,Rahul,PC,,SRV-50,connection timeout,Sales,yes,rahul reports unable to login due to access denied on srv-50 showing connection timeout
+T1145,Rahul reports: Keyboard keys not responding properly on SRV-45,Hardware Issue,Medium,Rahul,laptop,,SRV-45,,Finance,yes,rahul reports keyboard keys not responding properly on srv-45
+T1146,LAN connection not working,Other / General Support,High,,,,,,Finance,no,lan connection not working
+T1147,LAN connection not working,Email / Communication Issue,Medium,,,,,,Sales,no,lan connection not working
+T1148,Karan reports: LAN connection not working in Outlook on SRV-14 showing server not reachable,Hardware Issue,High,Karan,monitor,Outlook,SRV-14,server not reachable,Operations,yes,karan reports lan connection not working in outlook on srv-14 showing server not reachable
+T1149,Application crashes when opening,Email / Communication Issue,Low,,,,,,Sales,no,application crashes when opening
+T1150,VPN not connecting from home,Access / Authentication Issue,Low,,,,,,HR,no,vpn not connecting from home
+T1151,Amit reports: Internet is very slow today in Outlook showing blue screen,Email / Communication Issue,Low,Amit,system,Outlook,,blue screen,HR,yes,amit reports internet is very slow today in outlook showing blue screen
+T1152,Amit reports: Mouse not detected after system restart in Chrome showing 404 error,Email / Communication Issue,High,Amit,,Chrome,,404 error,Admin,yes,amit reports mouse not detected after system restart in chrome showing 404 error
+T1153,Mouse not detected after system restart,Hardware Issue,Medium,,,,,,Sales,no,mouse not detected after system restart
+T1154,Unable to login due to access denied in Excel on SRV-36 showing slow performance,Email / Communication Issue,Medium,,,Excel,SRV-36,slow performance,Sales,yes,unable to login due to access denied in excel on srv-36 showing slow performance
+T1155,LAN connection not working,Email / Communication Issue,Low,,,,,,HR,no,lan connection not working
+T1156,Outlook not syncing emails,Other / General Support,Medium,,,,,,Sales,no,outlook not syncing emails
+T1157,VPN not connecting from home,Email / Communication Issue,Low,,,,,,Finance,no,vpn not connecting from home
+T1158,Outlook not syncing emails,Hardware Issue,Medium,,,,,,Operations,no,outlook not syncing emails
+T1159,Email delivery delayed,Email / Communication Issue,Medium,,,,,,Operations,no,email delivery delayed
+T1160,Email delivery delayed,Network Issue,Low,,,,,,Finance,no,email delivery delayed
+T1161,Outlook not syncing emails,Software Issue,Low,,,,,,Operations,no,outlook not syncing emails
+T1162,Unable to login due to access denied,Email / Communication Issue,Medium,,,,,,Finance,no,unable to login due to access denied
+T1163,Keyboard keys not responding properly,Access / Authentication Issue,Medium,,,,,,HR,no,keyboard keys not responding properly
+T1164,Mouse not detected after system restart,Software Issue,High,,,,,,Sales,no,mouse not detected after system restart
+T1165,Internet is very slow today,Hardware Issue,Low,,,,,,Operations,no,internet is very slow today
+T1166,Email delivery delayed,Access / Authentication Issue,Medium,,,,,,HR,no,email delivery delayed
+T1167,Software installation failing with error,Email / Communication Issue,Low,,,,,,Sales,no,software installation failing with error
+T1168,Mouse not detected after system restart on SRV-44 showing slow performance,Other / General Support,Low,,mouse,,SRV-44,slow performance,Admin,yes,mouse not detected after system restart on srv-44 showing slow performance
+T1169,VPN not connecting from home,Email / Communication Issue,High,,,,,,HR,no,vpn not connecting from home
+T1170,LAN connection not working,Access / Authentication Issue,Medium,,,,,,Operations,no,lan connection not working
+T1171,LAN connection not working,Hardware Issue,Medium,,,,,,Operations,no,lan connection not working
+T1172,Mouse not detected after system restart on SRV-37,Software Issue,Low,,,,SRV-37,,Sales,yes,mouse not detected after system restart on srv-37
+T1173,Unable to login due to access denied,Software Issue,High,,,,,,Operations,no,unable to login due to access denied
+T1174,Amit reports: Application crashes when opening in VPN,Access / Authentication Issue,Medium,Amit,system,VPN,,,Admin,yes,amit reports application crashes when opening in vpn
+T1175,Rahul reports: LAN connection not working in Teams on SRV-19,Email / Communication Issue,Low,Rahul,,Teams,SRV-19,,HR,yes,rahul reports lan connection not working in teams on srv-19
+T1176,Outlook not syncing emails,Software Issue,Medium,,,,,,Admin,no,outlook not syncing emails
+T1177,Unable to login due to access denied,Other / General Support,Low,,,,,,IT,no,unable to login due to access denied
+T1178,Email delivery delayed,Hardware Issue,Medium,,,,,,HR,no,email delivery delayed
+T1179,Outlook not syncing emails in Outlook,Other / General Support,Medium,,,Outlook,,,Finance,yes,outlook not syncing emails in outlook
+T1180,Unable to login due to access denied in Teams,Access / Authentication Issue,Medium,,,Teams,,,Admin,yes,unable to login due to access denied in teams
+T1181,Application crashes when opening,Access / Authentication Issue,Medium,,,,,,HR,no,application crashes when opening
+T1182,Outlook not syncing emails,Email / Communication Issue,Medium,,,,,,IT,no,outlook not syncing emails
+T1183,Internet is very slow today in InternalTool showing blue screen,Hardware Issue,High,,,InternalTool,,blue screen,Operations,yes,internet is very slow today in internaltool showing blue screen
+T1184,Neha reports: Application crashes when opening in Teams,Network Issue,Low,Neha,,Teams,,,Finance,yes,neha reports application crashes when opening in teams
+T1185,Priya reports: Outlook not syncing emails in SAP,Software Issue,Low,Priya,,SAP,,,Operations,yes,priya reports outlook not syncing emails in sap
+T1186,VPN not connecting from home,Email / Communication Issue,Medium,,,,,,Operations,no,vpn not connecting from home
+T1187,LAN connection not working,Hardware Issue,High,,,,,,IT,no,lan connection not working
+T1188,Internet is very slow today,Access / Authentication Issue,Medium,,,,,,IT,no,internet is very slow today
+T1189,Amit reports: Software installation failing with error in SAP,Software Issue,High,Amit,PC,SAP,,,Admin,yes,amit reports software installation failing with error in sap
+T1190,Email delivery delayed,Hardware Issue,Low,,,,,,Sales,no,email delivery delayed
+T1191,VPN not connecting from home,Software Issue,High,,,,,,Finance,no,vpn not connecting from home
+T1192,Outlook not syncing emails,Hardware Issue,Low,,,,,,Admin,no,outlook not syncing emails
+T1193,Sneha reports: Email delivery delayed in VPN on SRV-23,Access / Authentication Issue,Low,Sneha,,VPN,SRV-23,,IT,yes,sneha reports email delivery delayed in vpn on srv-23
+T1194,Mouse not detected after system restart,Network Issue,Medium,,,,,,Finance,no,mouse not detected after system restart
+T1195,Outlook not syncing emails,Hardware Issue,Medium,,,,,,Sales,no,outlook not syncing emails
+T1196,Outlook not syncing emails,Hardware Issue,Medium,,,,,,IT,no,outlook not syncing emails
+T1197,VPN not connecting from home,Network Issue,Low,,,,,,Sales,no,vpn not connecting from home
+T1198,VPN not connecting from home showing login failed,Other / General Support,Low,,mouse,,,login failed,IT,yes,vpn not connecting from home showing login failed
+T1199,Keyboard keys not responding properly in VPN,Software Issue,Medium,,PC,VPN,,,Sales,yes,keyboard keys not responding properly in vpn
+T1200,Software installation failing with error,Email / Communication Issue,Medium,,,,,,Finance,no,software installation failing with error
+T1201,Unable to login due to access denied,Hardware Issue,Low,,,,,,Operations,no,unable to login due to access denied
+T1202,Unable to login due to access denied,Access / Authentication Issue,High,,,,,,IT,no,unable to login due to access denied
+T1203,Application crashes when opening,Hardware Issue,Medium,,,,,,Admin,no,application crashes when opening
+T1204,Keyboard keys not responding properly,Software Issue,Medium,,,,,,Finance,no,keyboard keys not responding properly
+T1205,Outlook not syncing emails,Other / General Support,High,,,,,,Admin,no,outlook not syncing emails
+T1206,Priya reports: Internet is very slow today showing server not reachable,Other / General Support,Medium,Priya,keyboard,,,server not reachable,Admin,yes,priya reports internet is very slow today showing server not reachable
+T1207,Keyboard keys not responding properly in InternalTool on SRV-31,Network Issue,Medium,,printer,InternalTool,SRV-31,,Admin,yes,keyboard keys not responding properly in internaltool on srv-31
+T1208,Keyboard keys not responding properly,Email / Communication Issue,Medium,,,,,,Sales,no,keyboard keys not responding properly
+T1209,Internet is very slow today,Network Issue,Low,,,,,,Admin,no,internet is very slow today
+T1210,LAN connection not working,Software Issue,High,,,,,,Finance,no,lan connection not working
+T1211,VPN not connecting from home,Access / Authentication Issue,Medium,,,,,,Sales,no,vpn not connecting from home
+T1212,Outlook not syncing emails,Email / Communication Issue,Low,,,,,,Finance,no,outlook not syncing emails
+T1213,Keyboard keys not responding properly,Software Issue,Medium,,,,,,HR,no,keyboard keys not responding properly
+T1214,Application crashes when opening,Software Issue,High,,,,,,Finance,no,application crashes when opening
+T1215,Keyboard keys not responding properly,Network Issue,Medium,,,,,,Finance,no,keyboard keys not responding properly
+T1216,Internet is very slow today,Hardware Issue,Medium,,,,,,Finance,no,internet is very slow today
+T1217,Anita reports: LAN connection not working,Hardware Issue,High,Anita,,,,,HR,yes,anita reports lan connection not working
+T1218,Unable to login due to access denied,Software Issue,Medium,,,,,,Finance,no,unable to login due to access denied
+T1219,Anita reports: Mouse not detected after system restart on SRV-53 showing server not reachable,Other / General Support,Low,Anita,desktop,,SRV-53,server not reachable,Finance,yes,anita reports mouse not detected after system restart on srv-53 showing server not reachable
+T1220,Keyboard keys not responding properly,Access / Authentication Issue,Medium,,,,,,Admin,no,keyboard keys not responding properly
+T1221,Karan reports: Email delivery delayed,Access / Authentication Issue,Low,Karan,,,,,HR,yes,karan reports email delivery delayed
+T1222,Keyboard keys not responding properly,Network Issue,High,,,,,,Finance,no,keyboard keys not responding properly
+T1223,Software installation failing with error,Other / General Support,High,,,,,,Finance,no,software installation failing with error
+T1224,Keyboard keys not responding properly,Software Issue,Medium,,,,,,HR,no,keyboard keys not responding properly
+T1225,Amit reports: Mouse not detected after system restart in Teams on SRV-57,Hardware Issue,High,Amit,,Teams,SRV-57,,Admin,yes,amit reports mouse not detected after system restart in teams on srv-57
+T1226,Sneha reports: Keyboard keys not responding properly in VPN on SRV-27 showing 404 error,Access / Authentication Issue,Low,Sneha,,VPN,SRV-27,404 error,Admin,yes,sneha reports keyboard keys not responding properly in vpn on srv-27 showing 404 error
+T1227,Software installation failing with error in Teams on SRV-29,Email / Communication Issue,High,,,Teams,SRV-29,,Operations,yes,software installation failing with error in teams on srv-29
+T1228,Outlook not syncing emails,Network Issue,Medium,,,,,,Operations,no,outlook not syncing emails
+T1229,Mouse not detected after system restart,Other / General Support,High,,,,,,HR,no,mouse not detected after system restart
+T1230,Neha reports: LAN connection not working in Teams on SRV-18 showing server not reachable,Hardware Issue,Low,Neha,desktop,Teams,SRV-18,server not reachable,Sales,yes,neha reports lan connection not working in teams on srv-18 showing server not reachable
+T1231,VPN not connecting from home,Email / Communication Issue,Medium,,,,,,HR,no,vpn not connecting from home
+T1232,Software installation failing with error,Email / Communication Issue,High,,,,,,HR,no,software installation failing with error
+T1233,LAN connection not working,Hardware Issue,Medium,,,,,,HR,no,lan connection not working
+T1234,Software installation failing with error,Other / General Support,High,,,,,,Finance,no,software installation failing with error
+T1235,Amit reports: Internet is very slow today,Software Issue,Medium,Amit,,,,,Finance,yes,amit reports internet is very slow today
+T1236,Application crashes when opening,Hardware Issue,Low,,,,,,Admin,no,application crashes when opening
+T1237,LAN connection not working,Other / General Support,Medium,,,,,,Operations,no,lan connection not working
+T1238,Mouse not detected after system restart,Network Issue,High,,,,,,Admin,no,mouse not detected after system restart
+T1239,Internet is very slow today,Other / General Support,Medium,,,,,,IT,no,internet is very slow today
+T1240,Rahul reports: Mouse not detected after system restart on SRV-54 showing slow performance,Other / General Support,High,Rahul,mouse,,SRV-54,slow performance,Operations,yes,rahul reports mouse not detected after system restart on srv-54 showing slow performance
+T1241,Software installation failing with error,Hardware Issue,Low,,,,,,Admin,no,software installation failing with error
+T1242,Keyboard keys not responding properly,Hardware Issue,Medium,,,,,,Sales,no,keyboard keys not responding properly
+T1243,VPN not connecting from home,Other / General Support,High,,,,,,Operations,no,vpn not connecting from home
+T1244,Amit reports: Software installation failing with error on SRV-24,Network Issue,Low,Amit,,,SRV-24,,Finance,yes,amit reports software installation failing with error on srv-24
+T1245,Amit reports: LAN connection not working in Chrome,Email / Communication Issue,High,Amit,,Chrome,,,IT,yes,amit reports lan connection not working in chrome
+T1246,Priya reports: VPN not connecting from home in Teams on SRV-53,Software Issue,Medium,Priya,printer,Teams,SRV-53,,Finance,yes,priya reports vpn not connecting from home in teams on srv-53
+T1247,VPN not connecting from home,Hardware Issue,High,,,,,,Sales,no,vpn not connecting from home
+T1248,VPN not connecting from home showing application crash,Hardware Issue,High,,,,,application crash,Admin,yes,vpn not connecting from home showing application crash
+T1249,LAN connection not working,Email / Communication Issue,High,,,,,,Sales,no,lan connection not working
+T1250,Rahul reports: Application crashes when opening on SRV-59,Access / Authentication Issue,Low,Rahul,PC,,SRV-59,,IT,yes,rahul reports application crashes when opening on srv-59
+T1251,Vikram reports: Unable to login due to access denied,Email / Communication Issue,Medium,Vikram,,,,,IT,yes,vikram reports unable to login due to access denied
+T1252,Neha reports: Internet is very slow today in Outlook,Software Issue,Medium,Neha,desktop,Outlook,,,Operations,yes,neha reports internet is very slow today in outlook
+T1253,Software installation failing with error in InternalTool showing slow performance,Software Issue,Low,,,InternalTool,,slow performance,IT,yes,software installation failing with error in internaltool showing slow performance
+T1254,Email delivery delayed,Software Issue,Medium,,,,,,Admin,no,email delivery delayed
+T1255,Mouse not detected after system restart,Email / Communication Issue,Medium,,,,,,HR,no,mouse not detected after system restart
+T1256,Keyboard keys not responding properly in Chrome on SRV-25,Hardware Issue,Medium,,,Chrome,SRV-25,,HR,yes,keyboard keys not responding properly in chrome on srv-25
+T1257,Vikram reports: Outlook not syncing emails in Teams showing login failed,Hardware Issue,High,Vikram,keyboard,Teams,,login failed,Admin,yes,vikram reports outlook not syncing emails in teams showing login failed
+T1258,Priya reports: Internet is very slow today in Excel showing server not reachable,Software Issue,Low,Priya,,Excel,,server not reachable,Finance,yes,priya reports internet is very slow today in excel showing server not reachable
+T1259,LAN connection not working,Network Issue,Medium,,,,,,Operations,no,lan connection not working
+T1260,Outlook not syncing emails in InternalTool showing login failed,Software Issue,Low,,,InternalTool,,login failed,Admin,yes,outlook not syncing emails in internaltool showing login failed
+T1261,LAN connection not working,Email / Communication Issue,Low,,,,,,Admin,no,lan connection not working
+T1262,Outlook not syncing emails,Other / General Support,Medium,,,,,,Sales,no,outlook not syncing emails
+T1263,Unable to login due to access denied,Hardware Issue,Low,,,,,,Admin,no,unable to login due to access denied
+T1264,Software installation failing with error,Access / Authentication Issue,Medium,,,,,,IT,no,software installation failing with error
+T1265,Email delivery delayed,Email / Communication Issue,Medium,,,,,,Admin,no,email delivery delayed
+T1266,Sneha reports: Software installation failing with error in SAP on SRV-11,Access / Authentication Issue,Low,Sneha,,SAP,SRV-11,,Finance,yes,sneha reports software installation failing with error in sap on srv-11
+T1267,LAN connection not working,Network Issue,High,,,,,,Operations,no,lan connection not working
+T1268,Internet is very slow today,Hardware Issue,Low,,,,,,HR,no,internet is very slow today
+T1269,Application crashes when opening in Outlook showing server not reachable,Hardware Issue,Medium,,,Outlook,,server not reachable,Admin,yes,application crashes when opening in outlook showing server not reachable
+T1270,Amit reports: LAN connection not working in Excel showing slow performance,Hardware Issue,Low,Amit,,Excel,,slow performance,Admin,yes,amit reports lan connection not working in excel showing slow performance
+T1271,Internet is very slow today,Software Issue,High,,,,,,HR,no,internet is very slow today
+T1272,Anita reports: Outlook not syncing emails in SAP showing server not reachable,Access / Authentication Issue,Medium,Anita,,SAP,,server not reachable,Finance,yes,anita reports outlook not syncing emails in sap showing server not reachable
+T1273,Outlook not syncing emails,Email / Communication Issue,Low,,,,,,Operations,no,outlook not syncing emails
+T1274,LAN connection not working,Other / General Support,High,,,,,,Finance,no,lan connection not working
+T1275,Amit reports: Outlook not syncing emails in InternalTool showing blue screen,Network Issue,Low,Amit,mouse,InternalTool,,blue screen,Operations,yes,amit reports outlook not syncing emails in internaltool showing blue screen
+T1276,Rahul reports: Email delivery delayed,Network Issue,Medium,Rahul,mouse,,,,Finance,yes,rahul reports email delivery delayed
+T1277,Priya reports: Internet is very slow today on SRV-23 showing blue screen,Software Issue,Medium,Priya,,,SRV-23,blue screen,Finance,yes,priya reports internet is very slow today on srv-23 showing blue screen
+T1278,Mouse not detected after system restart,Software Issue,Low,,,,,,Operations,no,mouse not detected after system restart
+T1279,Software installation failing with error,Network Issue,High,,,,,,Admin,no,software installation failing with error
+T1280,Karan reports: Outlook not syncing emails in SAP,Software Issue,Medium,Karan,desktop,SAP,,,Finance,yes,karan reports outlook not syncing emails in sap
+T1281,LAN connection not working,Network Issue,High,,,,,,IT,no,lan connection not working
+T1282,Application crashes when opening,Email / Communication Issue,Low,,,,,,Admin,no,application crashes when opening
+T1283,Mouse not detected after system restart,Other / General Support,Low,,,,,,Admin,yes,mouse not detected after system restart
+T1284,Anita reports: Mouse not detected after system restart in InternalTool on SRV-32 showing 404 error,Other / General Support,Low,Anita,,InternalTool,SRV-32,404 error,Operations,yes,anita reports mouse not detected after system restart in internaltool on srv-32 showing 404 error
+T1285,Email delivery delayed,Other / General Support,Medium,,,,,,Finance,no,email delivery delayed
+T1286,Vikram reports: Software installation failing with error in Excel on SRV-27 showing connection timeout,Other / General Support,Low,Vikram,,Excel,SRV-27,connection timeout,HR,yes,vikram reports software installation failing with error in excel on srv-27 showing connection timeout
+T1287,Priya reports: Application crashes when opening showing server not reachable,Hardware Issue,Low,Priya,,,,server not reachable,HR,yes,priya reports application crashes when opening showing server not reachable
+T1288,Application crashes when opening,Other / General Support,High,,,,,,Admin,no,application crashes when opening
+T1289,Outlook not syncing emails showing 404 error,Hardware Issue,Low,,printer,,,404 error,Finance,yes,outlook not syncing emails showing 404 error
+T1290,Mouse not detected after system restart,Other / General Support,Medium,,,,,,Operations,no,mouse not detected after system restart
+T1291,Software installation failing with error,Network Issue,High,,,,,,Sales,no,software installation failing with error
+T1292,Outlook not syncing emails,Software Issue,Low,,,,,,IT,no,outlook not syncing emails
+T1293,Anita reports: VPN not connecting from home in Teams,Software Issue,Low,Anita,desktop,Teams,,,Finance,yes,anita reports vpn not connecting from home in teams
+T1294,Neha reports: Unable to login due to access denied on SRV-46,Access / Authentication Issue,Medium,Neha,monitor,,SRV-46,,Sales,yes,neha reports unable to login due to access denied on srv-46
+T1295,Application crashes when opening,Network Issue,Low,,,,,,Finance,no,application crashes when opening
+T1296,Keyboard keys not responding properly,Access / Authentication Issue,Medium,,,,,,Admin,no,keyboard keys not responding properly
+T1297,Outlook not syncing emails,Email / Communication Issue,High,,,,,,Admin,no,outlook not syncing emails
+T1298,Email delivery delayed,Email / Communication Issue,Medium,,,,,,Sales,no,email delivery delayed
+T1299,Internet is very slow today,Software Issue,Low,,,,,,Finance,no,internet is very slow today
+T1300,Outlook not syncing emails,Access / Authentication Issue,Low,,,,,,Sales,no,outlook not syncing emails
+T1301,Unable to login due to access denied,Access / Authentication Issue,Low,,,,,,IT,no,unable to login due to access denied
+T1302,Amit reports: Internet is very slow today in VPN,Hardware Issue,Medium,Amit,mouse,VPN,,,Admin,yes,amit reports internet is very slow today in vpn
+T1303,Unable to login due to access denied,Software Issue,Medium,,,,,,IT,no,unable to login due to access denied
+T1304,Application crashes when opening,Access / Authentication Issue,Medium,,,,,,IT,no,application crashes when opening
+T1305,Unable to login due to access denied,Access / Authentication Issue,Low,,,,,,Finance,no,unable to login due to access denied
+T1306,Rahul reports: Mouse not detected after system restart in Outlook on SRV-15 showing login failed,Email / Communication Issue,Medium,Rahul,,Outlook,SRV-15,login failed,HR,yes,rahul reports mouse not detected after system restart in outlook on srv-15 showing login failed
+T1307,Email delivery delayed,Other / General Support,High,,,,,,Finance,no,email delivery delayed
+T1308,Amit reports: Email delivery delayed in Chrome showing blue screen,Software Issue,High,Amit,monitor,Chrome,,blue screen,IT,yes,amit reports email delivery delayed in chrome showing blue screen
+T1309,Anita reports: Unable to login due to access denied,Network Issue,High,Anita,PC,,,,HR,yes,anita reports unable to login due to access denied
+T1310,LAN connection not working,Network Issue,High,,,,,,Operations,no,lan connection not working
+T1311,Anita reports: Keyboard keys not responding properly in InternalTool on SRV-27,Other / General Support,Low,Anita,system,InternalTool,SRV-27,,IT,yes,anita reports keyboard keys not responding properly in internaltool on srv-27
+T1312,LAN connection not working on SRV-49 showing login failed,Hardware Issue,Medium,,PC,,SRV-49,login failed,Sales,yes,lan connection not working on srv-49 showing login failed
+T1313,Email delivery delayed in Chrome showing 404 error,Software Issue,Low,,system,Chrome,,404 error,IT,yes,email delivery delayed in chrome showing 404 error
+T1314,Email delivery delayed,Other / General Support,Medium,,,,,,Admin,no,email delivery delayed
+T1315,Unable to login due to access denied,Software Issue,Low,,,,,,Operations,no,unable to login due to access denied
+T1316,Mouse not detected after system restart,Hardware Issue,Medium,,,,,,Sales,no,mouse not detected after system restart
+T1317,Software installation failing with error,Network Issue,High,,,,,,Admin,no,software installation failing with error
+T1318,Karan reports: LAN connection not working in Outlook on SRV-21 showing server not reachable,Access / Authentication Issue,Medium,Karan,,Outlook,SRV-21,server not reachable,IT,yes,karan reports lan connection not working in outlook on srv-21 showing server not reachable
+T1319,Amit reports: LAN connection not working on SRV-51 showing connection timeout,Email / Communication Issue,Medium,Amit,,,SRV-51,connection timeout,HR,yes,amit reports lan connection not working on srv-51 showing connection timeout
+T1320,Keyboard keys not responding properly,Network Issue,Low,,,,,,HR,no,keyboard keys not responding properly
+T1321,Software installation failing with error,Hardware Issue,Low,,,,,,Admin,no,software installation failing with error
+T1322,Mouse not detected after system restart,Access / Authentication Issue,Low,,desktop,,,,IT,yes,mouse not detected after system restart
+T1323,Email delivery delayed,Network Issue,Medium,,,,,,Finance,no,email delivery delayed
+T1324,Mouse not detected after system restart,Access / Authentication Issue,Medium,,,,,,Sales,no,mouse not detected after system restart
+T1325,Application crashes when opening,Hardware Issue,High,,,,,,IT,no,application crashes when opening
+T1326,Unable to login due to access denied showing application crash,Access / Authentication Issue,Low,,,,,application crash,Sales,yes,unable to login due to access denied showing application crash
+T1327,Priya reports: Unable to login due to access denied in Teams on SRV-35 showing 404 error,Software Issue,Low,Priya,,Teams,SRV-35,404 error,Operations,yes,priya reports unable to login due to access denied in teams on srv-35 showing 404 error
+T1328,Email delivery delayed,Software Issue,Medium,,,,,,Sales,no,email delivery delayed
+T1329,Mouse not detected after system restart,Network Issue,Medium,,,,,,Finance,no,mouse not detected after system restart
+T1330,Software installation failing with error,Access / Authentication Issue,Low,,,,,,HR,no,software installation failing with error
+T1331,Anita reports: Software installation failing with error showing 404 error,Software Issue,High,Anita,,,,404 error,Admin,yes,anita reports software installation failing with error showing 404 error
+T1332,Unable to login due to access denied,Other / General Support,High,,,,,,IT,no,unable to login due to access denied
+T1333,Application crashes when opening,Software Issue,Medium,,,,,,Finance,no,application crashes when opening
+T1334,Priya reports: Outlook not syncing emails in Outlook on SRV-35 showing login failed,Other / General Support,Medium,Priya,,Outlook,SRV-35,login failed,Sales,yes,priya reports outlook not syncing emails in outlook on srv-35 showing login failed
+T1335,LAN connection not working,Hardware Issue,Low,,,,,,IT,no,lan connection not working
+T1336,Karan reports: Software installation failing with error in SAP on SRV-40 showing connection timeout,Network Issue,High,Karan,PC,SAP,SRV-40,connection timeout,HR,yes,karan reports software installation failing with error in sap on srv-40 showing connection timeout
+T1337,Rahul reports: LAN connection not working,Hardware Issue,Low,Rahul,,,,,Sales,yes,rahul reports lan connection not working
+T1338,Software installation failing with error,Email / Communication Issue,High,,,,,,Admin,no,software installation failing with error
+T1339,Application crashes when opening on SRV-59,Network Issue,Medium,,,,SRV-59,,Admin,yes,application crashes when opening on srv-59
+T1340,Internet is very slow today,Other / General Support,Medium,,,,,,IT,no,internet is very slow today
+T1341,Outlook not syncing emails,Email / Communication Issue,Low,,,,,,Admin,no,outlook not syncing emails
+T1342,Software installation failing with error,Software Issue,Low,,,,,,IT,no,software installation failing with error
+T1343,Software installation failing with error,Email / Communication Issue,Low,,,,,,Admin,no,software installation failing with error
+T1344,Keyboard keys not responding properly,Network Issue,Medium,,,,,,Sales,no,keyboard keys not responding properly
+T1345,Keyboard keys not responding properly,Hardware Issue,Medium,,,,,,HR,no,keyboard keys not responding properly
+T1346,Priya reports: Mouse not detected after system restart in InternalTool showing blue screen,Network Issue,High,Priya,system,InternalTool,,blue screen,Admin,yes,priya reports mouse not detected after system restart in internaltool showing blue screen
+T1347,Internet is very slow today in Chrome on SRV-40 showing connection timeout,Hardware Issue,Medium,,monitor,Chrome,SRV-40,connection timeout,Admin,yes,internet is very slow today in chrome on srv-40 showing connection timeout
+T1348,Email delivery delayed,Network Issue,Low,,,,,,Sales,no,email delivery delayed
+T1349,Amit reports: Internet is very slow today in Excel,Network Issue,Medium,Amit,printer,Excel,,,Finance,yes,amit reports internet is very slow today in excel
+T1350,Unable to login due to access denied,Software Issue,High,,,,,,HR,no,unable to login due to access denied
+T1351,Rahul reports: Keyboard keys not responding properly in Excel showing login failed,Other / General Support,Medium,Rahul,laptop,Excel,,login failed,Operations,yes,rahul reports keyboard keys not responding properly in excel showing login failed
+T1352,VPN not connecting from home,Other / General Support,Low,,,,,,HR,no,vpn not connecting from home
+T1353,Sneha reports: Internet is very slow today in VPN on SRV-57 showing blue screen,Hardware Issue,Medium,Sneha,system,VPN,SRV-57,blue screen,IT,yes,sneha reports internet is very slow today in vpn on srv-57 showing blue screen
+T1354,Vikram reports: Unable to login due to access denied in InternalTool on SRV-59,Other / General Support,Low,Vikram,,InternalTool,SRV-59,,HR,yes,vikram reports unable to login due to access denied in internaltool on srv-59
+T1355,Email delivery delayed,Software Issue,High,,,,,,Sales,no,email delivery delayed
+T1356,Anita reports: Email delivery delayed in SAP showing application crash,Software Issue,Medium,Anita,printer,SAP,,application crash,Operations,yes,anita reports email delivery delayed in sap showing application crash
+T1357,Software installation failing with error,Software Issue,Low,,,,,,Admin,no,software installation failing with error
+T1358,Email delivery delayed,Email / Communication Issue,Low,,,,,,Sales,no,email delivery delayed
+T1359,Anita reports: Application crashes when opening in Outlook showing server not reachable,Software Issue,High,Anita,keyboard,Outlook,,server not reachable,IT,yes,anita reports application crashes when opening in outlook showing server not reachable
+T1360,Rahul reports: LAN connection not working in SAP showing slow performance,Email / Communication Issue,Low,Rahul,,SAP,,slow performance,Operations,yes,rahul reports lan connection not working in sap showing slow performance
+T1361,LAN connection not working,Software Issue,Low,,,,,,Sales,no,lan connection not working
+T1362,Unable to login due to access denied,Access / Authentication Issue,Medium,,,,,,HR,yes,unable to login due to access denied
+T1363,Internet is very slow today,Other / General Support,Low,,,,,,Finance,no,internet is very slow today
+T1364,Neha reports: Keyboard keys not responding properly on SRV-32,Email / Communication Issue,Low,Neha,,,SRV-32,,Finance,yes,neha reports keyboard keys not responding properly on srv-32
+T1365,Software installation failing with error in InternalTool on SRV-35,Other / General Support,Medium,,system,InternalTool,SRV-35,,Finance,yes,software installation failing with error in internaltool on srv-35
+T1366,Priya reports: Application crashes when opening in Chrome,Software Issue,Medium,Priya,,Chrome,,,Sales,yes,priya reports application crashes when opening in chrome
+T1367,Software installation failing with error,Other / General Support,Low,,,,,,HR,no,software installation failing with error
+T1368,VPN not connecting from home,Software Issue,Low,,,,,,HR,no,vpn not connecting from home
+T1369,Software installation failing with error,Hardware Issue,High,,,,,,Operations,no,software installation failing with error
+T1370,Email delivery delayed in Excel,Hardware Issue,Low,,desktop,Excel,,,Admin,yes,email delivery delayed in excel
+T1371,Sneha reports: Outlook not syncing emails in Outlook on SRV-35 showing blue screen,Hardware Issue,High,Sneha,,Outlook,SRV-35,blue screen,Finance,yes,sneha reports outlook not syncing emails in outlook on srv-35 showing blue screen
+T1372,Keyboard keys not responding properly,Network Issue,High,,,,,,Finance,no,keyboard keys not responding properly
+T1373,Rahul reports: Software installation failing with error in InternalTool showing 404 error,Other / General Support,Low,Rahul,system,InternalTool,,404 error,IT,yes,rahul reports software installation failing with error in internaltool showing 404 error
+T1374,Unable to login due to access denied,Network Issue,Low,,,,,,IT,no,unable to login due to access denied
+T1375,LAN connection not working in SAP on SRV-50,Email / Communication Issue,High,,,SAP,SRV-50,,Operations,yes,lan connection not working in sap on srv-50
+T1376,Software installation failing with error,Access / Authentication Issue,Medium,,,,,,IT,no,software installation failing with error
+T1377,Unable to login due to access denied,Hardware Issue,Low,,,,,,Operations,no,unable to login due to access denied
+T1378,Application crashes when opening,Software Issue,Low,,,,,,Admin,no,application crashes when opening
+T1379,Email delivery delayed,Access / Authentication Issue,High,,,,,,Operations,no,email delivery delayed
+T1380,Neha reports: Outlook not syncing emails showing 404 error,Hardware Issue,Low,Neha,laptop,,,404 error,Sales,yes,neha reports outlook not syncing emails showing 404 error
+T1381,Priya reports: Unable to login due to access denied in Excel on SRV-49 showing access denied,Access / Authentication Issue,Low,Priya,,Excel,SRV-49,access denied,Operations,yes,priya reports unable to login due to access denied in excel on srv-49 showing access denied
+T1382,VPN not connecting from home,Hardware Issue,High,,,,,,Operations,no,vpn not connecting from home
+T1383,Software installation failing with error,Access / Authentication Issue,High,,,,,,Finance,no,software installation failing with error
+T1384,Email delivery delayed,Hardware Issue,Medium,,,,,,Operations,no,email delivery delayed
+T1385,Internet is very slow today,Network Issue,High,,,,,,Finance,no,internet is very slow today
+T1386,Mouse not detected after system restart,Hardware Issue,Low,,,,,,Operations,no,mouse not detected after system restart
+T1387,Neha reports: Mouse not detected after system restart in InternalTool,Software Issue,Low,Neha,,InternalTool,,,Sales,yes,neha reports mouse not detected after system restart in internaltool
+T1388,Email delivery delayed,Access / Authentication Issue,Low,,,,,,Finance,no,email delivery delayed
+T1389,Sneha reports: Outlook not syncing emails in Chrome showing login failed,Software Issue,Medium,Sneha,system,Chrome,,login failed,Sales,yes,sneha reports outlook not syncing emails in chrome showing login failed
+T1390,Internet is very slow today,Access / Authentication Issue,Medium,,,,,,Admin,no,internet is very slow today
+T1391,Karan reports: Unable to login due to access denied,Software Issue,Medium,Karan,mouse,,,,Finance,yes,karan reports unable to login due to access denied
+T1392,Internet is very slow today,Email / Communication Issue,High,,,,,,Admin,no,internet is very slow today
+T1393,Keyboard keys not responding properly,Network Issue,Medium,,,,,,Finance,no,keyboard keys not responding properly
+T1394,Vikram reports: Mouse not detected after system restart in Excel showing 404 error,Network Issue,Medium,Vikram,monitor,Excel,,404 error,HR,yes,vikram reports mouse not detected after system restart in excel showing 404 error
+T1395,Sneha reports: Software installation failing with error in InternalTool on SRV-49,Hardware Issue,Medium,Sneha,,InternalTool,SRV-49,,IT,yes,sneha reports software installation failing with error in internaltool on srv-49
+T1396,Internet is very slow today,Email / Communication Issue,High,,,,,,IT,no,internet is very slow today
+T1397,VPN not connecting from home,Other / General Support,High,,,,,,IT,no,vpn not connecting from home
+T1398,Application crashes when opening,Network Issue,High,,,,,,Sales,no,application crashes when opening
+T1399,VPN not connecting from home,Access / Authentication Issue,Medium,,,,,,Finance,no,vpn not connecting from home
+T1400,Email delivery delayed,Hardware Issue,High,,,,,,HR,no,email delivery delayed
+T1401,VPN not connecting from home in Excel on SRV-45 showing application crash,Software Issue,High,,,Excel,SRV-45,application crash,Operations,yes,vpn not connecting from home in excel on srv-45 showing application crash
+T1402,Keyboard keys not responding properly,Software Issue,Low,,,,,,IT,no,keyboard keys not responding properly
+T1403,Amit reports: Unable to login due to access denied on SRV-14 showing login failed,Network Issue,Medium,Amit,PC,,SRV-14,login failed,Admin,yes,amit reports unable to login due to access denied on srv-14 showing login failed
+T1404,LAN connection not working,Software Issue,Low,,,,,,Sales,no,lan connection not working
+T1405,Internet is very slow today,Email / Communication Issue,Medium,,,,,,IT,no,internet is very slow today
+T1406,Keyboard keys not responding properly,Software Issue,Low,,,,,,HR,no,keyboard keys not responding properly
+T1407,Priya reports: Mouse not detected after system restart in InternalTool on SRV-27,Software Issue,Low,Priya,,InternalTool,SRV-27,,Sales,yes,priya reports mouse not detected after system restart in internaltool on srv-27
+T1408,LAN connection not working,Email / Communication Issue,High,,,,,,Operations,no,lan connection not working
+T1409,Software installation failing with error,Other / General Support,Medium,,,,,,Operations,no,software installation failing with error
+T1410,Sneha reports: Keyboard keys not responding properly in InternalTool on SRV-52 showing access denied,Software Issue,Medium,Sneha,keyboard,InternalTool,SRV-52,access denied,Admin,yes,sneha reports keyboard keys not responding properly in internaltool on srv-52 showing access denied
+T1411,VPN not connecting from home,Hardware Issue,Medium,,,,,,HR,no,vpn not connecting from home
+T1412,Karan reports: Internet is very slow today on SRV-42,Email / Communication Issue,Medium,Karan,system,,SRV-42,,HR,yes,karan reports internet is very slow today on srv-42
+T1413,Keyboard keys not responding properly,Software Issue,High,,,,,,Sales,no,keyboard keys not responding properly
+T1414,Software installation failing with error,Email / Communication Issue,Medium,,,,,,Operations,no,software installation failing with error
+T1415,VPN not connecting from home,Other / General Support,Low,,,,,,Admin,no,vpn not connecting from home
+T1416,Software installation failing with error,Network Issue,Low,,,,,,Finance,no,software installation failing with error
+T1417,Email delivery delayed,Email / Communication Issue,Low,,,,,,IT,no,email delivery delayed
+T1418,Application crashes when opening in Outlook on SRV-21,Other / General Support,Medium,,PC,Outlook,SRV-21,,HR,yes,application crashes when opening in outlook on srv-21
+T1419,Amit reports: Keyboard keys not responding properly,Access / Authentication Issue,Medium,Amit,,,,,Admin,yes,amit reports keyboard keys not responding properly
+T1420,Keyboard keys not responding properly,Hardware Issue,High,,,,,,Admin,no,keyboard keys not responding properly
+T1421,Keyboard keys not responding properly,Network Issue,High,,,,,,Finance,no,keyboard keys not responding properly
+T1422,Neha reports: Internet is very slow today in SAP on SRV-36,Access / Authentication Issue,High,Neha,printer,SAP,SRV-36,,Finance,yes,neha reports internet is very slow today in sap on srv-36
+T1423,Software installation failing with error,Access / Authentication Issue,Medium,,,,,,Sales,no,software installation failing with error
+T1424,LAN connection not working,Network Issue,Low,,,,,,Sales,no,lan connection not working
+T1425,Software installation failing with error,Network Issue,Medium,,,,,,Operations,no,software installation failing with error
+T1426,Internet is very slow today,Network Issue,Medium,,,,,,HR,no,internet is very slow today
+T1427,Internet is very slow today,Access / Authentication Issue,Low,,,,,,Sales,no,internet is very slow today
+T1428,Vikram reports: Unable to login due to access denied in Teams showing 404 error,Access / Authentication Issue,High,Vikram,,Teams,,404 error,Sales,yes,vikram reports unable to login due to access denied in teams showing 404 error
+T1429,Unable to login due to access denied,Network Issue,High,,,,,,Sales,no,unable to login due to access denied
+T1430,Keyboard keys not responding properly in Chrome showing application crash,Other / General Support,Medium,,,Chrome,,application crash,Finance,yes,keyboard keys not responding properly in chrome showing application crash
+T1431,Outlook not syncing emails,Access / Authentication Issue,Medium,,,,,,HR,no,outlook not syncing emails
+T1432,Email delivery delayed,Network Issue,Low,,,,,,Sales,no,email delivery delayed
+T1433,Application crashes when opening,Hardware Issue,High,,,,,,Operations,no,application crashes when opening
+T1434,Application crashes when opening,Access / Authentication Issue,High,,,,,,Finance,no,application crashes when opening
+T1435,Internet is very slow today,Hardware Issue,High,,,,,,HR,no,internet is very slow today
+T1436,Email delivery delayed,Hardware Issue,High,,,,,,Operations,no,email delivery delayed
+T1437,Outlook not syncing emails,Other / General Support,Medium,,,,,,HR,no,outlook not syncing emails
+T1438,Unable to login due to access denied,Hardware Issue,Medium,,,,,,IT,no,unable to login due to access denied
+T1439,Email delivery delayed,Network Issue,Low,,,,,,Admin,no,email delivery delayed
+T1440,Anita reports: Unable to login due to access denied in Chrome showing 404 error,Hardware Issue,Low,Anita,PC,Chrome,,404 error,Operations,yes,anita reports unable to login due to access denied in chrome showing 404 error
+T1441,Keyboard keys not responding properly,Network Issue,Medium,,,,,,Sales,no,keyboard keys not responding properly
+T1442,LAN connection not working,Software Issue,Medium,,,,,,Finance,no,lan connection not working
+T1443,Application crashes when opening,Email / Communication Issue,Low,,,,,,Admin,no,application crashes when opening
+T1444,Anita reports: LAN connection not working in SAP,Email / Communication Issue,Low,Anita,,SAP,,,Sales,yes,anita reports lan connection not working in sap
+T1445,Software installation failing with error in SAP on SRV-15 showing connection timeout,Access / Authentication Issue,High,,laptop,SAP,SRV-15,connection timeout,IT,yes,software installation failing with error in sap on srv-15 showing connection timeout
+T1446,Application crashes when opening,Hardware Issue,High,,,,,,Admin,no,application crashes when opening
+T1447,Unable to login due to access denied,Network Issue,Low,,,,,,Operations,no,unable to login due to access denied
+T1448,VPN not connecting from home,Network Issue,Low,,,,,,Finance,no,vpn not connecting from home
+T1449,Outlook not syncing emails,Network Issue,High,,,,,,Operations,no,outlook not syncing emails
+T1450,Email delivery delayed,Access / Authentication Issue,High,,,,,,IT,no,email delivery delayed
+T1451,Keyboard keys not responding properly,Other / General Support,High,,,,,,Sales,no,keyboard keys not responding properly
+T1452,Keyboard keys not responding properly in Chrome on SRV-36,Software Issue,Medium,,laptop,Chrome,SRV-36,,Operations,yes,keyboard keys not responding properly in chrome on srv-36
+T1453,Vikram reports: Mouse not detected after system restart in Chrome,Other / General Support,Medium,Vikram,mouse,Chrome,,,HR,yes,vikram reports mouse not detected after system restart in chrome
+T1454,Unable to login due to access denied,Hardware Issue,Medium,,,,,,Admin,no,unable to login due to access denied
+T1455,LAN connection not working,Network Issue,Medium,,,,,,Sales,no,lan connection not working
+T1456,Amit reports: Application crashes when opening in Outlook,Hardware Issue,Medium,Amit,monitor,Outlook,,,Operations,yes,amit reports application crashes when opening in outlook
+T1457,LAN connection not working,Email / Communication Issue,High,,,,,,Sales,no,lan connection not working
+T1458,Unable to login due to access denied in VPN on SRV-46,Other / General Support,Medium,,PC,VPN,SRV-46,,Operations,yes,unable to login due to access denied in vpn on srv-46
+T1459,Amit reports: LAN connection not working in SAP,Other / General Support,Low,Amit,mouse,SAP,,,IT,yes,amit reports lan connection not working in sap
+T1460,VPN not connecting from home,Software Issue,High,,,,,,Admin,no,vpn not connecting from home
+T1461,Internet is very slow today,Network Issue,High,,,,,,Sales,no,internet is very slow today
+T1462,LAN connection not working in Excel showing application crash,Software Issue,High,,keyboard,Excel,,application crash,IT,yes,lan connection not working in excel showing application crash
+T1463,Email delivery delayed,Software Issue,Medium,,,,,,Admin,no,email delivery delayed
+T1464,Application crashes when opening,Other / General Support,Low,,,,,,Operations,no,application crashes when opening
+T1465,Mouse not detected after system restart,Network Issue,Low,,,,,,HR,no,mouse not detected after system restart
+T1466,Keyboard keys not responding properly,Email / Communication Issue,Medium,,,,,,Finance,no,keyboard keys not responding properly
+T1467,Mouse not detected after system restart,Software Issue,High,,,,,,IT,no,mouse not detected after system restart
+T1468,LAN connection not working,Software Issue,Low,,,,,,Operations,no,lan connection not working
+T1469,Mouse not detected after system restart,Network Issue,High,,,,,,Admin,no,mouse not detected after system restart
+T1470,VPN not connecting from home in VPN,Software Issue,Low,,,VPN,,,Sales,yes,vpn not connecting from home in vpn
+T1471,Software installation failing with error,Software Issue,Low,,,,,,Sales,no,software installation failing with error
+T1472,Internet is very slow today,Other / General Support,High,,,,,,Operations,no,internet is very slow today
+T1473,Mouse not detected after system restart,Network Issue,Low,,,,,,HR,no,mouse not detected after system restart
+T1474,Unable to login due to access denied,Hardware Issue,Medium,,,,,,HR,no,unable to login due to access denied
+T1475,Software installation failing with error in Excel on SRV-59 showing login failed,Other / General Support,High,,,Excel,SRV-59,login failed,Finance,yes,software installation failing with error in excel on srv-59 showing login failed
+T1476,LAN connection not working,Network Issue,Medium,,,,,,Finance,no,lan connection not working
+T1477,LAN connection not working,Hardware Issue,Medium,,,,,,Sales,no,lan connection not working
+T1478,Application crashes when opening,Email / Communication Issue,Medium,,,,,,Operations,no,application crashes when opening
+T1479,VPN not connecting from home,Software Issue,Low,,,,,,Finance,no,vpn not connecting from home
+T1480,Priya reports: Email delivery delayed,Hardware Issue,High,Priya,,,,,HR,yes,priya reports email delivery delayed
+T1481,Unable to login due to access denied,Other / General Support,Low,,,,,,IT,no,unable to login due to access denied
+T1482,Email delivery delayed on SRV-24 showing login failed,Hardware Issue,High,,mouse,,SRV-24,login failed,Sales,yes,email delivery delayed on srv-24 showing login failed
+T1483,VPN not connecting from home,Network Issue,Medium,,,,,,HR,no,vpn not connecting from home
+T1484,Internet is very slow today,Hardware Issue,Medium,,,,,,IT,no,internet is very slow today
+T1485,Amit reports: Application crashes when opening in VPN showing 404 error,Other / General Support,High,Amit,monitor,VPN,,404 error,Sales,yes,amit reports application crashes when opening in vpn showing 404 error
+T1486,VPN not connecting from home,Other / General Support,Low,,,,,,Sales,no,vpn not connecting from home
+T1487,Vikram reports: Internet is very slow today on SRV-25,Network Issue,Low,Vikram,desktop,,SRV-25,,Operations,yes,vikram reports internet is very slow today on srv-25
+T1488,VPN not connecting from home,Network Issue,High,,,,,,Admin,no,vpn not connecting from home
+T1489,LAN connection not working,Network Issue,Low,,,,,,Admin,no,lan connection not working
+T1490,Software installation failing with error,Hardware Issue,Low,,,,,,Admin,no,software installation failing with error
+T1491,Software installation failing with error,Software Issue,High,,,,,,Sales,no,software installation failing with error
+T1492,Vikram reports: Mouse not detected after system restart on SRV-40 showing slow performance,Other / General Support,Low,Vikram,monitor,,SRV-40,slow performance,IT,yes,vikram reports mouse not detected after system restart on srv-40 showing slow performance
+T1493,Rahul reports: Application crashes when opening in Chrome on SRV-15 showing access denied,Access / Authentication Issue,High,Rahul,,Chrome,SRV-15,access denied,HR,yes,rahul reports application crashes when opening in chrome on srv-15 showing access denied
+T1494,Amit reports: Outlook not syncing emails in SAP showing slow performance,Access / Authentication Issue,Low,Amit,PC,SAP,,slow performance,Sales,yes,amit reports outlook not syncing emails in sap showing slow performance
+T1495,Software installation failing with error,Access / Authentication Issue,Low,,,,,,HR,no,software installation failing with error
+T1496,Outlook not syncing emails,Email / Communication Issue,Medium,,,,,,Finance,no,outlook not syncing emails
+T1497,Unable to login due to access denied in Outlook on SRV-57 showing server not reachable,Software Issue,Medium,,mouse,Outlook,SRV-57,server not reachable,HR,yes,unable to login due to access denied in outlook on srv-57 showing server not reachable
+T1498,Internet is very slow today,Other / General Support,High,,,,,,IT,no,internet is very slow today
+T1499,Neha reports: Software installation failing with error in InternalTool on SRV-41,Software Issue,High,Neha,PC,InternalTool,SRV-41,,IT,yes,neha reports software installation failing with error in internaltool on srv-41
+T1500,Unable to login due to access denied,Hardware Issue,Low,,,,,,IT,no,unable to login due to access denied
